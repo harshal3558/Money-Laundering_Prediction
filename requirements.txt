@@ -1,0 +1,15 @@
+pandas
+numpy
+pandas
+numpy
+scikit-learn
+# cassandra-driver
+# python-dotenv
+# fastapi
+# uvicorn[standard]
+# mlflow
+# dvc
+# joblib
+# pyyaml
+# astrapy
+-e .
